@@ -10,7 +10,7 @@
 ```
 Download the Code
 ```
-<li>Run</li>
+<li>How to Run</li>
 
 ```
 javac Main.java
